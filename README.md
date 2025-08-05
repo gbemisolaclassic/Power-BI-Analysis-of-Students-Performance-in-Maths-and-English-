@@ -25,37 +25,26 @@ The goal is to provide insights that can help educators, parents, and policymake
 - Interactive dashboard for data-driven exploration and insight generation.
 
 
-## 📊 Sample Visuals
-
 ## ✅ Insights Gained
 
 - Students generally perform better in one subject over the other based on various factors.
 - Parental education shows a measurable influence on students' academic performance.
 - Gender disparities exist in certain subject areas and should be further investigated.
 
----
-
 ## 🚀 How to Run the Project
-
-1. Open the Excel file in the `Data/` folder to review the dataset.
 2. Open the `.pbix` file in Power BI Desktop.
 3. Refresh the dataset and interact with the visualizations to explore the data.
-
----
 
 ## 📌 Conclusion
 
 This analysis highlights the importance of using data to understand student performance patterns. The findings can help guide strategic interventions in the education sector.
 
----
-
 ## 📧 Contact
 
 For questions or feedback, feel free to contact:
 
-**Your Name**  
-[Your Email]  
-[LinkedIn or GitHub Profile Link]
-
+Victoria Afolabi 
+victoriaaishat1@gmail.com 
+(https://www.linkedin.com/in/victoria-afolabi-031389212/)
 
 <img width="885" height="492" alt="power bi" src="https://github.com/user-attachments/assets/f8cf9909-b7af-4e4f-9d88-297a0f3c301c" />
